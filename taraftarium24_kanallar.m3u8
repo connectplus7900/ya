@@ -1,5 +1,533 @@
 #EXTM3U
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXT-X-ORIGIN:https://mahsunsports.com
-#EXTINF:-1 tvg-name="Varsayılan Kanal" group-title="Diğer Kanallar",Varsayılan Kanal
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs1.m3u8
+#EXT-X-ORIGIN:https://mahsunsports80.xyz
+#EXTINF:-1 tvg-name="Fenerbahçe - Lyon" group-title="Maç Yayınları",Fenerbahçe - Lyon
+https://andro.evrenesoglu57.click/checklist/androstreamlivetrt1.m3u8
+#EXTINF:-1 tvg-name="Fənərbaxça - Lion (Azərbaycanca)" group-title="Maç Yayınları",Fənərbaxça - Lion (Azərbaycanca)
+https://andro.evrenesoglu57.click/checklist/androstreamlivecbcs.m3u8
+#EXTINF:-1 tvg-name="Fenerbahçe - Lyon (Deutsch)" group-title="Maç Yayınları",Fenerbahçe - Lyon (Deutsch)
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn2.m3u8
+#EXTINF:-1 tvg-name="Fenerbahçe - Lyon (English)" group-title="Maç Yayınları",Fenerbahçe - Lyon (English)
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn3.m3u8
+#EXTINF:-1 tvg-name="Levski Sofya - AEK" group-title="Maç Yayınları",Levski Sofya - AEK
+https://andro.evrenesoglu57.click/checklist/androstreamlivetb.m3u8
+#EXTINF:-1 tvg-name="Dinamo Zagreb - Viking" group-title="Maç Yayınları",Dinamo Zagreb - Viking
+https://andro.evrenesoglu57.click/checklist/androstreamlivetb1.m3u8
+#EXTINF:-1 tvg-name="C.Gauff - A.Li" group-title="Maç Yayınları",C.Gauff - A.Li
+https://andro.evrenesoglu57.click/checklist/androstreamlivebsm1.m3u8
+#EXTINF:-1 tvg-name="A.Sabalenka - X.Wang" group-title="Maç Yayınları",A.Sabalenka - X.Wang
+https://andro.evrenesoglu57.click/checklist/androstreamlivebsm1.m3u8
+#EXTINF:-1 tvg-name="L.Tien - F.Tiafoe" group-title="Maç Yayınları",L.Tien - F.Tiafoe
+https://andro.evrenesoglu57.click/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1 tvg-name="NEC Nijmegen - Bodo Glimt" group-title="Maç Yayınları",NEC Nijmegen - Bodo Glimt
+https://andro.evrenesoglu57.click/checklist/androstreamlivetb.m3u8
+#EXTINF:-1 tvg-name="Celtic - LASK Linz" group-title="Maç Yayınları",Celtic - LASK Linz
+https://andro.evrenesoglu57.click/checklist/androstreamlivetb1.m3u8
+#EXTINF:-1 tvg-name="Slovan Bratislava - NK Celje" group-title="Maç Yayınları",Slovan Bratislava - NK Celje
+https://andro.evrenesoglu57.click/checklist/androstreamlivetb2.m3u8
+#EXTINF:-1 tvg-name="Atletico Madrid - Malaga" group-title="Maç Yayınları",Atletico Madrid - Malaga
+https://andro.evrenesoglu57.click/checklist/androstreamlivess1.m3u8
+#EXTINF:-1 tvg-name="S. Bratislava - NK Celje" group-title="Maç Yayınları",S. Bratislava - NK Celje
+https://andro.evrenesoglu57.click/checklist/androstreamlivechNone.m3u8
+#EXTINF:-1 tvg-name="AFC Eskilstuna - IK Oddevold" group-title="Maç Yayınları",AFC Eskilstuna - IK Oddevold
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40069709.m3u8
+#EXTINF:-1 tvg-name="IFK Skovde FK - Falkenbergs FF" group-title="Maç Yayınları",IFK Skovde FK - Falkenbergs FF
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40069713.m3u8
+#EXTINF:-1 tvg-name="Nykobing - Naestved" group-title="Maç Yayınları",Nykobing - Naestved
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20034751.m3u8
+#EXTINF:-1 tvg-name="Nykobing FC - Naestved" group-title="Maç Yayınları",Nykobing FC - Naestved
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40069835.m3u8
+#EXTINF:-1 tvg-name="Akhmat - Fakel Voronezh" group-title="Maç Yayınları",Akhmat - Fakel Voronezh
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40070539.m3u8
+#EXTINF:-1 tvg-name="FC Rostov - Lokomotiv Moscow" group-title="Maç Yayınları",FC Rostov - Lokomotiv Moscow
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40070535.m3u8
+#EXTINF:-1 tvg-name="Union Santa Fe (res.) - Racing Avellaneda (res.)" group-title="Maç Yayınları",Union Santa Fe (res.) - Racing Avellaneda (res.)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40071381.m3u8
+#EXTINF:-1 tvg-name="Reading - Wycombe Wanderers" group-title="Maç Yayınları",Reading - Wycombe Wanderers
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035210.m3u8
+#EXTINF:-1 tvg-name="Leyton Orient - AFC Wimbledon" group-title="Maç Yayınları",Leyton Orient - AFC Wimbledon
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035209.m3u8
+#EXTINF:-1 tvg-name="Diriyah - Al Nassr" group-title="Maç Yayınları",Diriyah - Al Nassr
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035207.m3u8
+#EXTINF:-1 tvg-name="Bellinzona - Basel II" group-title="Maç Yayınları",Bellinzona - Basel II
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035208.m3u8
+#EXTINF:-1 tvg-name="Northampton Town - Brighton & Hove Alb. U21" group-title="Maç Yayınları",Northampton Town - Brighton & Hove Alb. U21
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035211.m3u8
+#EXTINF:-1 tvg-name="Deportivo Muniz - Juventud Unida" group-title="Maç Yayınları",Deportivo Muniz - Juventud Unida
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035205.m3u8
+#EXTINF:-1 tvg-name="Wigan Athletic - Aston Villa U21" group-title="Maç Yayınları",Wigan Athletic - Aston Villa U21
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035212.m3u8
+#EXTINF:-1 tvg-name="Stockport County - Everton U21" group-title="Maç Yayınları",Stockport County - Everton U21
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035213.m3u8
+#EXTINF:-1 tvg-name="Claypole - Mercedes" group-title="Maç Yayınları",Claypole - Mercedes
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035404.m3u8
+#EXTINF:-1 tvg-name="Levadiakos - Asteras Tripolis" group-title="Maç Yayınları",Levadiakos - Asteras Tripolis
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40070745.m3u8
+#EXTINF:-1 tvg-name="Claypole - Club Mercedes" group-title="Maç Yayınları",Claypole - Club Mercedes
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40071141.m3u8
+#EXTINF:-1 tvg-name="Deportivo Muniz - Juventud Unida San Miguel" group-title="Maç Yayınları",Deportivo Muniz - Juventud Unida San Miguel
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40070925.m3u8
+#EXTINF:-1 tvg-name="Newell's (res.) - Lanus (res.)" group-title="Maç Yayınları",Newell's (res.) - Lanus (res.)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40071357.m3u8
+#EXTINF:-1 tvg-name="DIPLOMAT - GEO" group-title="Maç Yayınları",DIPLOMAT - GEO
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035587.m3u8
+#EXTINF:-1 tvg-name="Miranta - Chinchero" group-title="Maç Yayınları",Miranta - Chinchero
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035664.m3u8
+#EXTINF:-1 tvg-name="Manchester City (Foks) - Barcelona (Kwins)" group-title="Maç Yayınları",Manchester City (Foks) - Barcelona (Kwins)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035567.m3u8
+#EXTINF:-1 tvg-name="Akhmat - FC Fakel Voronezh" group-title="Maç Yayınları",Akhmat - FC Fakel Voronezh
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035103.m3u8
+#EXTINF:-1 tvg-name="Spartak+ - Tottenham+" group-title="Maç Yayınları",Spartak+ - Tottenham+
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035681.m3u8
+#EXTINF:-1 tvg-name="C.D. Atlético Tordesillas - C.D. Villa de Simancas" group-title="Maç Yayınları",C.D. Atlético Tordesillas - C.D. Villa de Simancas
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20034912.m3u8
+#EXTINF:-1 tvg-name="Godoy Cruz (res.) - Velez Sarsfield (res.)" group-title="Maç Yayınları",Godoy Cruz (res.) - Velez Sarsfield (res.)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40071457.m3u8
+#EXTINF:-1 tvg-name="IFK Skövde FK - Falkenbergs FF" group-title="Maç Yayınları",IFK Skövde FK - Falkenbergs FF
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20034690.m3u8
+#EXTINF:-1 tvg-name="Portekiz (Thomas) - Belçika (Dominic)" group-title="Maç Yayınları",Portekiz (Thomas) - Belçika (Dominic)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035695.m3u8
+#EXTINF:-1 tvg-name="Caledonian Braves FC - Clydebank" group-title="Maç Yayınları",Caledonian Braves FC - Clydebank
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40071597.m3u8
+#EXTINF:-1 tvg-name="FC Rostov - Lokomotiv Moskova" group-title="Maç Yayınları",FC Rostov - Lokomotiv Moskova
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035101.m3u8
+#EXTINF:-1 tvg-name="Catumbela - Kianda" group-title="Maç Yayınları",Catumbela - Kianda
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035653.m3u8
+#EXTINF:-1 tvg-name="Excelsior (Amatörler) - Volendam (Amatörler)" group-title="Maç Yayınları",Excelsior (Amatörler) - Volendam (Amatörler)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035611.m3u8
+#EXTINF:-1 tvg-name="JOURN - TEACH" group-title="Maç Yayınları",JOURN - TEACH
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035582.m3u8
+#EXTINF:-1 tvg-name="Bologna+ - Morlaix+" group-title="Maç Yayınları",Bologna+ - Morlaix+
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035646.m3u8
+#EXTINF:-1 tvg-name="AFC Eskilstuna - IK Oddevold" group-title="Maç Yayınları",AFC Eskilstuna - IK Oddevold
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20034688.m3u8
+#EXTINF:-1 tvg-name="Bats (2x2) - Owls (2x2)" group-title="Maç Yayınları",Bats (2x2) - Owls (2x2)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035603.m3u8
+#EXTINF:-1 tvg-name="GNK Dinamo Zagreb - Viking FK" group-title="Maç Yayınları",GNK Dinamo Zagreb - Viking FK
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035622.m3u8
+#EXTINF:-1 tvg-name="Levski Sofia - AEK Athens F.C." group-title="Maç Yayınları",Levski Sofia - AEK Athens F.C.
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035623.m3u8
+#EXTINF:-1 tvg-name="San Antonio Bulo Bulo - Club Aurora" group-title="Maç Yayınları",San Antonio Bulo Bulo - Club Aurora
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035605.m3u8
+#EXTINF:-1 tvg-name="Tayvan White - California Irvine University" group-title="Maç Yayınları",Tayvan White - California Irvine University
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20031014.m3u8
+#EXTINF:-1 tvg-name="IPBL Elephants - IPBL Gorillas" group-title="Maç Yayınları",IPBL Elephants - IPBL Gorillas
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035568.m3u8
+#EXTINF:-1 tvg-name="Patriots Kigali - APR BBC" group-title="Maç Yayınları",Patriots Kigali - APR BBC
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035564.m3u8
+#EXTINF:-1 tvg-name="IPBL Dogs - IPBL Wolves" group-title="Maç Yayınları",IPBL Dogs - IPBL Wolves
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035509.m3u8
+#EXTINF:-1 tvg-name="Patriots - APR BBC" group-title="Maç Yayınları",Patriots - APR BBC
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40071461.m3u8
+#EXTINF:-1 tvg-name="Buckets - Redemption" group-title="Maç Yayınları",Buckets - Redemption
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035547.m3u8
+#EXTINF:-1 tvg-name="New Zealand (TBL) - Bulgaristan (TBL)" group-title="Maç Yayınları",New Zealand (TBL) - Bulgaristan (TBL)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035654.m3u8
+#EXTINF:-1 tvg-name="Chita - Khabarovsk" group-title="Maç Yayınları",Chita - Khabarovsk
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035351.m3u8
+#EXTINF:-1 tvg-name="IPBL Lynx (Bayanlar) - IPBL Iguana (Bayanlar)" group-title="Maç Yayınları",IPBL Lynx (Bayanlar) - IPBL Iguana (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035503.m3u8
+#EXTINF:-1 tvg-name="Çin (TBL) - Kolombiya (TBL)" group-title="Maç Yayınları",Çin (TBL) - Kolombiya (TBL)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035655.m3u8
+#EXTINF:-1 tvg-name="Krasnogorsk (Bayanlar) - Armavir (Bayanlar)" group-title="Maç Yayınları",Krasnogorsk (Bayanlar) - Armavir (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035396.m3u8
+#EXTINF:-1 tvg-name="Fransa U20 - Almanya U20" group-title="Maç Yayınları",Fransa U20 - Almanya U20
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20034775.m3u8
+#EXTINF:-1 tvg-name="Arjantin - ABD" group-title="Maç Yayınları",Arjantin - ABD
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20034945.m3u8
+#EXTINF:-1 tvg-name="ABD (Bayanlar) - İtalya (Bayanlar)" group-title="Maç Yayınları",ABD (Bayanlar) - İtalya (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035347.m3u8
+#EXTINF:-1 tvg-name="Bolivia (Pro) - Peru (Pro)" group-title="Maç Yayınları",Bolivia (Pro) - Peru (Pro)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035331.m3u8
+#EXTINF:-1 tvg-name="Brezilya (Bayanlar) - Japonya (Bayanlar)" group-title="Maç Yayınları",Brezilya (Bayanlar) - Japonya (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035715.m3u8
+#EXTINF:-1 tvg-name="Japonya - Polonya" group-title="Maç Yayınları",Japonya - Polonya
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035421.m3u8
+#EXTINF:-1 tvg-name="Ukrayna - Japonya" group-title="Maç Yayınları",Ukrayna - Japonya
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035153.m3u8
+#EXTINF:-1 tvg-name="Sokol (4x4) - Astoria (4x4)" group-title="Maç Yayınları",Sokol (4x4) - Astoria (4x4)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035334.m3u8
+#EXTINF:-1 tvg-name="Avustralya - Çin" group-title="Maç Yayınları",Avustralya - Çin
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035702.m3u8
+#EXTINF:-1 tvg-name="Garrett Johns - Paulo Andre Saraiva Dos Santos" group-title="Maç Yayınları",Garrett Johns - Paulo Andre Saraiva Dos Santos
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40069909.m3u8
+#EXTINF:-1 tvg-name="Valentin Royer - Luis Guto Miguel" group-title="Maç Yayınları",Valentin Royer - Luis Guto Miguel
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40070079.m3u8
+#EXTINF:-1 tvg-name="Dusan Lajovic - Taro Daniel" group-title="Maç Yayınları",Dusan Lajovic - Taro Daniel
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40069983.m3u8
+#EXTINF:-1 tvg-name="Stefanos Sakellaridis - Tristan Schoolkate" group-title="Maç Yayınları",Stefanos Sakellaridis - Tristan Schoolkate
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40070547.m3u8
+#EXTINF:-1 tvg-name="Evan Zhu - Pedro Martinez" group-title="Maç Yayınları",Evan Zhu - Pedro Martinez
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40070825.m3u8
+#EXTINF:-1 tvg-name="Calvin Mueller - Daniel Masur" group-title="Maç Yayınları",Calvin Mueller - Daniel Masur
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40070985.m3u8
+#EXTINF:-1 tvg-name="Arribage/Olivetti - Lehecka/Fery" group-title="Maç Yayınları",Arribage/Olivetti - Lehecka/Fery
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035586.m3u8
+#EXTINF:-1 tvg-name="Denis Savinov - Denis Pavlov" group-title="Maç Yayınları",Denis Savinov - Denis Pavlov
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035317.m3u8
+#EXTINF:-1 tvg-name="Theo Arribage/Albano Olivetti - Jiri Lehecka/Arthur Fery" group-title="Maç Yayınları",Theo Arribage/Albano Olivetti - Jiri Lehecka/Arthur Fery
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40071505.m3u8
+#EXTINF:-1 tvg-name="Dmitry Zakharov - Dmitry Kryukov" group-title="Maç Yayınları",Dmitry Zakharov - Dmitry Kryukov
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035168.m3u8
+#EXTINF:-1 tvg-name="Brandon Nakashima - Daniil Medvedev" group-title="Maç Yayınları",Brandon Nakashima - Daniil Medvedev
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035660.m3u8
+#EXTINF:-1 tvg-name="Brandon Nakashima - Daniil Medvedev" group-title="Maç Yayınları",Brandon Nakashima - Daniil Medvedev
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40071653.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BeIN Sports 1
+https://andro.evrenesoglu57.click/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 2" group-title="BeinSports",BeIN Sports 2
+https://andro.evrenesoglu57.click/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 3" group-title="BeinSports",BeIN Sports 3
+https://andro.evrenesoglu57.click/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 4" group-title="BeinSports",BeIN Sports 4
+https://andro.evrenesoglu57.click/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 5" group-title="BeinSports",BeIN Sports 5
+https://andro.evrenesoglu57.click/checklist/androstreamlivebs5.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports Max 1" group-title="BeinSports",BeIN Sports Max 1
+https://andro.evrenesoglu57.click/checklist/androstreamlivebsm1.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports Max 2" group-title="BeinSports",BeIN Sports Max 2
+https://andro.evrenesoglu57.click/checklist/androstreamlivebsm2.m3u8
+#EXTINF:-1 tvg-name="S Sport" group-title="S Sports",S Sport
+https://andro.evrenesoglu57.click/checklist/androstreamlivess1.m3u8
+#EXTINF:-1 tvg-name="S Sport 2" group-title="S Sports",S Sport 2
+https://andro.evrenesoglu57.click/checklist/androstreamlivess2.m3u8
+#EXTINF:-1 tvg-name="S Sport Plus" group-title="S Sports",S Sport Plus
+https://andro.evrenesoglu57.click/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor" group-title="Tivibu",Tivibu Spor
+https://andro.evrenesoglu57.click/checklist/androstreamlivets.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 1" group-title="Tivibu",Tivibu Spor 1
+https://andro.evrenesoglu57.click/checklist/androstreamlivets1.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 2" group-title="Tivibu",Tivibu Spor 2
+https://andro.evrenesoglu57.click/checklist/androstreamlivets2.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 3" group-title="Tivibu",Tivibu Spor 3
+https://andro.evrenesoglu57.click/checklist/androstreamlivets3.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 4" group-title="Tivibu",Tivibu Spor 4
+https://andro.evrenesoglu57.click/checklist/androstreamlivets4.m3u8
+#EXTINF:-1 tvg-name="Smart Spor 1" group-title="Spor",Smart Spor 1
+https://andro.evrenesoglu57.click/checklist/androstreamlivesm1.m3u8
+#EXTINF:-1 tvg-name="Smart Spor 2" group-title="Spor",Smart Spor 2
+https://andro.evrenesoglu57.click/checklist/androstreamlivesm2.m3u8
+#EXTINF:-1 tvg-name="Euro Sport 1" group-title="Diğer Kanallar",Euro Sport 1
+https://andro.evrenesoglu57.click/checklist/androstreamlivees1.m3u8
+#EXTINF:-1 tvg-name="Euro Sport 2" group-title="Diğer Kanallar",Euro Sport 2
+https://andro.evrenesoglu57.click/checklist/androstreamlivees2.m3u8
+#EXTINF:-1 tvg-name="iDMAN Tv" group-title="Diğer Kanallar",iDMAN Tv
+https://andro.evrenesoglu57.click/checklist/androstreamliveidm.m3u8
+#EXTINF:-1 tvg-name="Trt 1" group-title="Ulusal Kanallar",Trt 1
+https://andro.evrenesoglu57.click/checklist/androstreamlivetrt1.m3u8
+#EXTINF:-1 tvg-name="Trt Spor" group-title="Ulusal Kanallar",Trt Spor
+https://andro.evrenesoglu57.click/checklist/androstreamlivetrts.m3u8
+#EXTINF:-1 tvg-name="Trt Spor Yıldız" group-title="Ulusal Kanallar",Trt Spor Yıldız
+https://andro.evrenesoglu57.click/checklist/androstreamlivetrtsy.m3u8
+#EXTINF:-1 tvg-name="Atv" group-title="Ulusal Kanallar",Atv
+https://andro.evrenesoglu57.click/checklist/androstreamliveatv.m3u8
+#EXTINF:-1 tvg-name="A Spor" group-title="Ulusal Kanallar",A Spor
+https://andro.evrenesoglu57.click/checklist/androstreamliveas.m3u8
+#EXTINF:-1 tvg-name="A2" group-title="Ulusal Kanallar",A2
+https://andro.evrenesoglu57.click/checklist/androstreamlivea2.m3u8
+#EXTINF:-1 tvg-name="Tjk Tv" group-title="Yarış",Tjk Tv
+https://andro.evrenesoglu57.click/checklist/androstreamlivetjk.m3u8
+#EXTINF:-1 tvg-name="Ht Spor" group-title="Spor",Ht Spor
+https://andro.evrenesoglu57.click/checklist/androstreamliveht.m3u8
+#EXTINF:-1 tvg-name="Nba Tv" group-title="Spor",Nba Tv
+https://andro.evrenesoglu57.click/checklist/androstreamlivenba.m3u8
+#EXTINF:-1 tvg-name="Tv8" group-title="Ulusal Kanallar",Tv8
+https://andro.evrenesoglu57.click/checklist/androstreamlivetv8.m3u8
+#EXTINF:-1 tvg-name="Tv8,5" group-title="Ulusal Kanallar",Tv8,5
+https://andro.evrenesoglu57.click/checklist/androstreamlivetv85.m3u8
+#EXTINF:-1 tvg-name="Tabi Spor" group-title="Diğer Kanallar",Tabi Spor
+https://andro.evrenesoglu57.click/checklist/androstreamlivetb.m3u8
+#EXTINF:-1 tvg-name="Tabi Spor 1" group-title="Diğer Kanallar",Tabi Spor 1
+https://andro.evrenesoglu57.click/checklist/androstreamlivetb1.m3u8
+#EXTINF:-1 tvg-name="Tabi Spor 2" group-title="Diğer Kanallar",Tabi Spor 2
+https://andro.evrenesoglu57.click/checklist/androstreamlivetb2.m3u8
+#EXTINF:-1 tvg-name="Tabi Spor 3" group-title="Diğer Kanallar",Tabi Spor 3
+https://andro.evrenesoglu57.click/checklist/androstreamlivetb3.m3u8
+#EXTINF:-1 tvg-name="Tabi Spor 4" group-title="Diğer Kanallar",Tabi Spor 4
+https://andro.evrenesoglu57.click/checklist/androstreamlivetb4.m3u8
+#EXTINF:-1 tvg-name="Tabi Spor 5" group-title="Diğer Kanallar",Tabi Spor 5
+https://andro.evrenesoglu57.click/checklist/androstreamlivetb5.m3u8
+#EXTINF:-1 tvg-name="Tabi Spor 6" group-title="Diğer Kanallar",Tabi Spor 6
+https://andro.evrenesoglu57.click/checklist/androstreamlivetb6.m3u8
+#EXTINF:-1 tvg-name="Tabi Spor 7" group-title="Diğer Kanallar",Tabi Spor 7
+https://andro.evrenesoglu57.click/checklist/androstreamlivetb7.m3u8
+#EXTINF:-1 tvg-name="Tabi Spor 8" group-title="Diğer Kanallar",Tabi Spor 8
+https://andro.evrenesoglu57.click/checklist/androstreamlivetb8.m3u8
+#EXTINF:-1 tvg-name="Fb Tv" group-title="Diğer",Fb Tv
+https://andro.evrenesoglu57.click/checklist/androstreamlivefb.m3u8
+#EXTINF:-1 tvg-name="Cbc Sport" group-title="Diğer",Cbc Sport
+https://andro.evrenesoglu57.click/checklist/androstreamlivecbcs.m3u8
+#EXTINF:-1 tvg-name="Gs Tv" group-title="Diğer",Gs Tv
+https://andro.evrenesoglu57.click/checklist/androstreamlivegs.m3u8
+#EXTINF:-1 tvg-name="Sports Tv" group-title="Spor",Sports Tv
+https://andro.evrenesoglu57.click/checklist/androstreamlivesptstv.m3u8
+#EXTINF:-1 tvg-name="Exxen Tv" group-title="Exxen",Exxen Tv
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn.m3u8
+#EXTINF:-1 tvg-name="Exxen Sports 1" group-title="Exxen",Exxen Sports 1
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn1.m3u8
+#EXTINF:-1 tvg-name="Exxen Sports 2" group-title="Exxen",Exxen Sports 2
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn2.m3u8
+#EXTINF:-1 tvg-name="Exxen Sports 3" group-title="Exxen",Exxen Sports 3
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn3.m3u8
+#EXTINF:-1 tvg-name="Exxen Sports 4" group-title="Exxen",Exxen Sports 4
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn4.m3u8
+#EXTINF:-1 tvg-name="Exxen Sports 5" group-title="Exxen",Exxen Sports 5
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn5.m3u8
+#EXTINF:-1 tvg-name="Exxen Sports 6" group-title="Exxen",Exxen Sports 6
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn6.m3u8
+#EXTINF:-1 tvg-name="Exxen Sports 7" group-title="Exxen",Exxen Sports 7
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn7.m3u8
+#EXTINF:-1 tvg-name="Exxen Sports 8" group-title="Exxen",Exxen Sports 8
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn8.m3u8
+#EXTINF:-1 tvg-name="S. Bratislava - NK Celje" group-title="Maç Yayınları",S. Bratislava - NK Celje
+https://andro.evrenesoglu57.click/checklist/androstreamlivechNone.m3u8
+#EXTINF:-1 tvg-name="AFC Eskilstuna - IK Oddevold" group-title="Maç Yayınları",AFC Eskilstuna - IK Oddevold
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40069709.m3u8
+#EXTINF:-1 tvg-name="IFK Skovde FK - Falkenbergs FF" group-title="Maç Yayınları",IFK Skovde FK - Falkenbergs FF
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40069713.m3u8
+#EXTINF:-1 tvg-name="Nykobing - Naestved" group-title="Maç Yayınları",Nykobing - Naestved
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20034751.m3u8
+#EXTINF:-1 tvg-name="Nykobing FC - Naestved" group-title="Maç Yayınları",Nykobing FC - Naestved
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40069835.m3u8
+#EXTINF:-1 tvg-name="Akhmat - Fakel Voronezh" group-title="Maç Yayınları",Akhmat - Fakel Voronezh
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40070539.m3u8
+#EXTINF:-1 tvg-name="FC Rostov - Lokomotiv Moscow" group-title="Maç Yayınları",FC Rostov - Lokomotiv Moscow
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40070535.m3u8
+#EXTINF:-1 tvg-name="Union Santa Fe (res.) - Racing Avellaneda (res.)" group-title="Maç Yayınları",Union Santa Fe (res.) - Racing Avellaneda (res.)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40071381.m3u8
+#EXTINF:-1 tvg-name="Reading - Wycombe Wanderers" group-title="Maç Yayınları",Reading - Wycombe Wanderers
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035210.m3u8
+#EXTINF:-1 tvg-name="Leyton Orient - AFC Wimbledon" group-title="Maç Yayınları",Leyton Orient - AFC Wimbledon
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035209.m3u8
+#EXTINF:-1 tvg-name="Diriyah - Al Nassr" group-title="Maç Yayınları",Diriyah - Al Nassr
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035207.m3u8
+#EXTINF:-1 tvg-name="Bellinzona - Basel II" group-title="Maç Yayınları",Bellinzona - Basel II
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035208.m3u8
+#EXTINF:-1 tvg-name="Northampton Town - Brighton & Hove Alb. U21" group-title="Maç Yayınları",Northampton Town - Brighton & Hove Alb. U21
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035211.m3u8
+#EXTINF:-1 tvg-name="Deportivo Muniz - Juventud Unida" group-title="Maç Yayınları",Deportivo Muniz - Juventud Unida
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035205.m3u8
+#EXTINF:-1 tvg-name="Wigan Athletic - Aston Villa U21" group-title="Maç Yayınları",Wigan Athletic - Aston Villa U21
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035212.m3u8
+#EXTINF:-1 tvg-name="Stockport County - Everton U21" group-title="Maç Yayınları",Stockport County - Everton U21
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035213.m3u8
+#EXTINF:-1 tvg-name="Claypole - Mercedes" group-title="Maç Yayınları",Claypole - Mercedes
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035404.m3u8
+#EXTINF:-1 tvg-name="Levadiakos - Asteras Tripolis" group-title="Maç Yayınları",Levadiakos - Asteras Tripolis
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40070745.m3u8
+#EXTINF:-1 tvg-name="Claypole - Club Mercedes" group-title="Maç Yayınları",Claypole - Club Mercedes
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40071141.m3u8
+#EXTINF:-1 tvg-name="Deportivo Muniz - Juventud Unida San Miguel" group-title="Maç Yayınları",Deportivo Muniz - Juventud Unida San Miguel
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40070925.m3u8
+#EXTINF:-1 tvg-name="Newell's (res.) - Lanus (res.)" group-title="Maç Yayınları",Newell's (res.) - Lanus (res.)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40071357.m3u8
+#EXTINF:-1 tvg-name="DIPLOMAT - GEO" group-title="Maç Yayınları",DIPLOMAT - GEO
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035587.m3u8
+#EXTINF:-1 tvg-name="Miranta - Chinchero" group-title="Maç Yayınları",Miranta - Chinchero
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035664.m3u8
+#EXTINF:-1 tvg-name="Manchester City (Foks) - Barcelona (Kwins)" group-title="Maç Yayınları",Manchester City (Foks) - Barcelona (Kwins)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035567.m3u8
+#EXTINF:-1 tvg-name="Akhmat - FC Fakel Voronezh" group-title="Maç Yayınları",Akhmat - FC Fakel Voronezh
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035103.m3u8
+#EXTINF:-1 tvg-name="Spartak+ - Tottenham+" group-title="Maç Yayınları",Spartak+ - Tottenham+
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035681.m3u8
+#EXTINF:-1 tvg-name="C.D. Atlético Tordesillas - C.D. Villa de Simancas" group-title="Maç Yayınları",C.D. Atlético Tordesillas - C.D. Villa de Simancas
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20034912.m3u8
+#EXTINF:-1 tvg-name="Godoy Cruz (res.) - Velez Sarsfield (res.)" group-title="Maç Yayınları",Godoy Cruz (res.) - Velez Sarsfield (res.)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40071457.m3u8
+#EXTINF:-1 tvg-name="IFK Skövde FK - Falkenbergs FF" group-title="Maç Yayınları",IFK Skövde FK - Falkenbergs FF
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20034690.m3u8
+#EXTINF:-1 tvg-name="Portekiz (Thomas) - Belçika (Dominic)" group-title="Maç Yayınları",Portekiz (Thomas) - Belçika (Dominic)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035695.m3u8
+#EXTINF:-1 tvg-name="Caledonian Braves FC - Clydebank" group-title="Maç Yayınları",Caledonian Braves FC - Clydebank
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40071597.m3u8
+#EXTINF:-1 tvg-name="FC Rostov - Lokomotiv Moskova" group-title="Maç Yayınları",FC Rostov - Lokomotiv Moskova
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035101.m3u8
+#EXTINF:-1 tvg-name="Catumbela - Kianda" group-title="Maç Yayınları",Catumbela - Kianda
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035653.m3u8
+#EXTINF:-1 tvg-name="Excelsior (Amatörler) - Volendam (Amatörler)" group-title="Maç Yayınları",Excelsior (Amatörler) - Volendam (Amatörler)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035611.m3u8
+#EXTINF:-1 tvg-name="JOURN - TEACH" group-title="Maç Yayınları",JOURN - TEACH
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035582.m3u8
+#EXTINF:-1 tvg-name="Bologna+ - Morlaix+" group-title="Maç Yayınları",Bologna+ - Morlaix+
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035646.m3u8
+#EXTINF:-1 tvg-name="AFC Eskilstuna - IK Oddevold" group-title="Maç Yayınları",AFC Eskilstuna - IK Oddevold
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20034688.m3u8
+#EXTINF:-1 tvg-name="Bats (2x2) - Owls (2x2)" group-title="Maç Yayınları",Bats (2x2) - Owls (2x2)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035603.m3u8
+#EXTINF:-1 tvg-name="GNK Dinamo Zagreb - Viking FK" group-title="Maç Yayınları",GNK Dinamo Zagreb - Viking FK
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035622.m3u8
+#EXTINF:-1 tvg-name="Levski Sofia - AEK Athens F.C." group-title="Maç Yayınları",Levski Sofia - AEK Athens F.C.
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035623.m3u8
+#EXTINF:-1 tvg-name="San Antonio Bulo Bulo - Club Aurora" group-title="Maç Yayınları",San Antonio Bulo Bulo - Club Aurora
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035605.m3u8
+#EXTINF:-1 tvg-name="Tayvan White - California Irvine University" group-title="Maç Yayınları",Tayvan White - California Irvine University
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20031014.m3u8
+#EXTINF:-1 tvg-name="IPBL Elephants - IPBL Gorillas" group-title="Maç Yayınları",IPBL Elephants - IPBL Gorillas
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035568.m3u8
+#EXTINF:-1 tvg-name="Patriots Kigali - APR BBC" group-title="Maç Yayınları",Patriots Kigali - APR BBC
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035564.m3u8
+#EXTINF:-1 tvg-name="IPBL Dogs - IPBL Wolves" group-title="Maç Yayınları",IPBL Dogs - IPBL Wolves
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035509.m3u8
+#EXTINF:-1 tvg-name="Patriots - APR BBC" group-title="Maç Yayınları",Patriots - APR BBC
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40071461.m3u8
+#EXTINF:-1 tvg-name="Buckets - Redemption" group-title="Maç Yayınları",Buckets - Redemption
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035547.m3u8
+#EXTINF:-1 tvg-name="New Zealand (TBL) - Bulgaristan (TBL)" group-title="Maç Yayınları",New Zealand (TBL) - Bulgaristan (TBL)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035654.m3u8
+#EXTINF:-1 tvg-name="Chita - Khabarovsk" group-title="Maç Yayınları",Chita - Khabarovsk
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035351.m3u8
+#EXTINF:-1 tvg-name="IPBL Lynx (Bayanlar) - IPBL Iguana (Bayanlar)" group-title="Maç Yayınları",IPBL Lynx (Bayanlar) - IPBL Iguana (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035503.m3u8
+#EXTINF:-1 tvg-name="Çin (TBL) - Kolombiya (TBL)" group-title="Maç Yayınları",Çin (TBL) - Kolombiya (TBL)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035655.m3u8
+#EXTINF:-1 tvg-name="Krasnogorsk (Bayanlar) - Armavir (Bayanlar)" group-title="Maç Yayınları",Krasnogorsk (Bayanlar) - Armavir (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035396.m3u8
+#EXTINF:-1 tvg-name="Fransa U20 - Almanya U20" group-title="Maç Yayınları",Fransa U20 - Almanya U20
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20034775.m3u8
+#EXTINF:-1 tvg-name="Arjantin - ABD" group-title="Maç Yayınları",Arjantin - ABD
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20034945.m3u8
+#EXTINF:-1 tvg-name="ABD (Bayanlar) - İtalya (Bayanlar)" group-title="Maç Yayınları",ABD (Bayanlar) - İtalya (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035347.m3u8
+#EXTINF:-1 tvg-name="Bolivia (Pro) - Peru (Pro)" group-title="Maç Yayınları",Bolivia (Pro) - Peru (Pro)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035331.m3u8
+#EXTINF:-1 tvg-name="Brezilya (Bayanlar) - Japonya (Bayanlar)" group-title="Maç Yayınları",Brezilya (Bayanlar) - Japonya (Bayanlar)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035715.m3u8
+#EXTINF:-1 tvg-name="Japonya - Polonya" group-title="Maç Yayınları",Japonya - Polonya
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035421.m3u8
+#EXTINF:-1 tvg-name="Ukrayna - Japonya" group-title="Maç Yayınları",Ukrayna - Japonya
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035153.m3u8
+#EXTINF:-1 tvg-name="Sokol (4x4) - Astoria (4x4)" group-title="Maç Yayınları",Sokol (4x4) - Astoria (4x4)
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035334.m3u8
+#EXTINF:-1 tvg-name="Avustralya - Çin" group-title="Maç Yayınları",Avustralya - Çin
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035702.m3u8
+#EXTINF:-1 tvg-name="Garrett Johns - Paulo Andre Saraiva Dos Santos" group-title="Maç Yayınları",Garrett Johns - Paulo Andre Saraiva Dos Santos
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40069909.m3u8
+#EXTINF:-1 tvg-name="Valentin Royer - Luis Guto Miguel" group-title="Maç Yayınları",Valentin Royer - Luis Guto Miguel
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40070079.m3u8
+#EXTINF:-1 tvg-name="Dusan Lajovic - Taro Daniel" group-title="Maç Yayınları",Dusan Lajovic - Taro Daniel
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40069983.m3u8
+#EXTINF:-1 tvg-name="Stefanos Sakellaridis - Tristan Schoolkate" group-title="Maç Yayınları",Stefanos Sakellaridis - Tristan Schoolkate
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40070547.m3u8
+#EXTINF:-1 tvg-name="Evan Zhu - Pedro Martinez" group-title="Maç Yayınları",Evan Zhu - Pedro Martinez
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40070825.m3u8
+#EXTINF:-1 tvg-name="Calvin Mueller - Daniel Masur" group-title="Maç Yayınları",Calvin Mueller - Daniel Masur
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40070985.m3u8
+#EXTINF:-1 tvg-name="Arribage/Olivetti - Lehecka/Fery" group-title="Maç Yayınları",Arribage/Olivetti - Lehecka/Fery
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035586.m3u8
+#EXTINF:-1 tvg-name="Denis Savinov - Denis Pavlov" group-title="Maç Yayınları",Denis Savinov - Denis Pavlov
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035317.m3u8
+#EXTINF:-1 tvg-name="Theo Arribage/Albano Olivetti - Jiri Lehecka/Arthur Fery" group-title="Maç Yayınları",Theo Arribage/Albano Olivetti - Jiri Lehecka/Arthur Fery
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40071505.m3u8
+#EXTINF:-1 tvg-name="Dmitry Zakharov - Dmitry Kryukov" group-title="Maç Yayınları",Dmitry Zakharov - Dmitry Kryukov
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035168.m3u8
+#EXTINF:-1 tvg-name="Brandon Nakashima - Daniil Medvedev" group-title="Maç Yayınları",Brandon Nakashima - Daniil Medvedev
+https://andro.evrenesoglu57.click/checklist/androstreamlivech20035660.m3u8
+#EXTINF:-1 tvg-name="Brandon Nakashima - Daniil Medvedev" group-title="Maç Yayınları",Brandon Nakashima - Daniil Medvedev
+https://andro.evrenesoglu57.click/checklist/androstreamlivech40071653.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BeIN Sports 1
+https://andro.evrenesoglu57.click/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 2" group-title="BeinSports",BeIN Sports 2
+https://andro.evrenesoglu57.click/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 3" group-title="BeinSports",BeIN Sports 3
+https://andro.evrenesoglu57.click/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 4" group-title="BeinSports",BeIN Sports 4
+https://andro.evrenesoglu57.click/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 5" group-title="BeinSports",BeIN Sports 5
+https://andro.evrenesoglu57.click/checklist/androstreamlivebs5.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports Max 1" group-title="BeinSports",BeIN Sports Max 1
+https://andro.evrenesoglu57.click/checklist/androstreamlivebsm1.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports Max 2" group-title="BeinSports",BeIN Sports Max 2
+https://andro.evrenesoglu57.click/checklist/androstreamlivebsm2.m3u8
+#EXTINF:-1 tvg-name="S Sport" group-title="S Sports",S Sport
+https://andro.evrenesoglu57.click/checklist/androstreamlivess1.m3u8
+#EXTINF:-1 tvg-name="S Sport 2" group-title="S Sports",S Sport 2
+https://andro.evrenesoglu57.click/checklist/androstreamlivess2.m3u8
+#EXTINF:-1 tvg-name="S Sport Plus" group-title="S Sports",S Sport Plus
+https://andro.evrenesoglu57.click/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor" group-title="Tivibu",Tivibu Spor
+https://andro.evrenesoglu57.click/checklist/androstreamlivets.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 1" group-title="Tivibu",Tivibu Spor 1
+https://andro.evrenesoglu57.click/checklist/androstreamlivets1.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 2" group-title="Tivibu",Tivibu Spor 2
+https://andro.evrenesoglu57.click/checklist/androstreamlivets2.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 3" group-title="Tivibu",Tivibu Spor 3
+https://andro.evrenesoglu57.click/checklist/androstreamlivets3.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 4" group-title="Tivibu",Tivibu Spor 4
+https://andro.evrenesoglu57.click/checklist/androstreamlivets4.m3u8
+#EXTINF:-1 tvg-name="Smart Spor 1" group-title="Spor",Smart Spor 1
+https://andro.evrenesoglu57.click/checklist/androstreamlivesm1.m3u8
+#EXTINF:-1 tvg-name="Smart Spor 2" group-title="Spor",Smart Spor 2
+https://andro.evrenesoglu57.click/checklist/androstreamlivesm2.m3u8
+#EXTINF:-1 tvg-name="Euro Sport 1" group-title="Diğer Kanallar",Euro Sport 1
+https://andro.evrenesoglu57.click/checklist/androstreamlivees1.m3u8
+#EXTINF:-1 tvg-name="Euro Sport 2" group-title="Diğer Kanallar",Euro Sport 2
+https://andro.evrenesoglu57.click/checklist/androstreamlivees2.m3u8
+#EXTINF:-1 tvg-name="iDMAN Tv" group-title="Diğer Kanallar",iDMAN Tv
+https://andro.evrenesoglu57.click/checklist/androstreamliveidm.m3u8
+#EXTINF:-1 tvg-name="Trt 1" group-title="Ulusal Kanallar",Trt 1
+https://andro.evrenesoglu57.click/checklist/androstreamlivetrt1.m3u8
+#EXTINF:-1 tvg-name="Trt Spor" group-title="Ulusal Kanallar",Trt Spor
+https://andro.evrenesoglu57.click/checklist/androstreamlivetrts.m3u8
+#EXTINF:-1 tvg-name="Trt Spor Yıldız" group-title="Ulusal Kanallar",Trt Spor Yıldız
+https://andro.evrenesoglu57.click/checklist/androstreamlivetrtsy.m3u8
+#EXTINF:-1 tvg-name="Atv" group-title="Ulusal Kanallar",Atv
+https://andro.evrenesoglu57.click/checklist/androstreamliveatv.m3u8
+#EXTINF:-1 tvg-name="A Spor" group-title="Ulusal Kanallar",A Spor
+https://andro.evrenesoglu57.click/checklist/androstreamliveas.m3u8
+#EXTINF:-1 tvg-name="A2" group-title="Ulusal Kanallar",A2
+https://andro.evrenesoglu57.click/checklist/androstreamlivea2.m3u8
+#EXTINF:-1 tvg-name="Tjk Tv" group-title="Yarış",Tjk Tv
+https://andro.evrenesoglu57.click/checklist/androstreamlivetjk.m3u8
+#EXTINF:-1 tvg-name="Ht Spor" group-title="Spor",Ht Spor
+https://andro.evrenesoglu57.click/checklist/androstreamliveht.m3u8
+#EXTINF:-1 tvg-name="Nba Tv" group-title="Spor",Nba Tv
+https://andro.evrenesoglu57.click/checklist/androstreamlivenba.m3u8
+#EXTINF:-1 tvg-name="Tv8" group-title="Ulusal Kanallar",Tv8
+https://andro.evrenesoglu57.click/checklist/androstreamlivetv8.m3u8
+#EXTINF:-1 tvg-name="Tv8,5" group-title="Ulusal Kanallar",Tv8,5
+https://andro.evrenesoglu57.click/checklist/androstreamlivetv85.m3u8
+#EXTINF:-1 tvg-name="Tabi Spor" group-title="Diğer Kanallar",Tabi Spor
+https://andro.evrenesoglu57.click/checklist/androstreamlivetb.m3u8
+#EXTINF:-1 tvg-name="Tabi Spor 1" group-title="Diğer Kanallar",Tabi Spor 1
+https://andro.evrenesoglu57.click/checklist/androstreamlivetb1.m3u8
+#EXTINF:-1 tvg-name="Tabi Spor 2" group-title="Diğer Kanallar",Tabi Spor 2
+https://andro.evrenesoglu57.click/checklist/androstreamlivetb2.m3u8
+#EXTINF:-1 tvg-name="Tabi Spor 3" group-title="Diğer Kanallar",Tabi Spor 3
+https://andro.evrenesoglu57.click/checklist/androstreamlivetb3.m3u8
+#EXTINF:-1 tvg-name="Tabi Spor 4" group-title="Diğer Kanallar",Tabi Spor 4
+https://andro.evrenesoglu57.click/checklist/androstreamlivetb4.m3u8
+#EXTINF:-1 tvg-name="Tabi Spor 5" group-title="Diğer Kanallar",Tabi Spor 5
+https://andro.evrenesoglu57.click/checklist/androstreamlivetb5.m3u8
+#EXTINF:-1 tvg-name="Tabi Spor 6" group-title="Diğer Kanallar",Tabi Spor 6
+https://andro.evrenesoglu57.click/checklist/androstreamlivetb6.m3u8
+#EXTINF:-1 tvg-name="Tabi Spor 7" group-title="Diğer Kanallar",Tabi Spor 7
+https://andro.evrenesoglu57.click/checklist/androstreamlivetb7.m3u8
+#EXTINF:-1 tvg-name="Tabi Spor 8" group-title="Diğer Kanallar",Tabi Spor 8
+https://andro.evrenesoglu57.click/checklist/androstreamlivetb8.m3u8
+#EXTINF:-1 tvg-name="Fb Tv" group-title="Diğer",Fb Tv
+https://andro.evrenesoglu57.click/checklist/androstreamlivefb.m3u8
+#EXTINF:-1 tvg-name="Cbc Sport" group-title="Diğer",Cbc Sport
+https://andro.evrenesoglu57.click/checklist/androstreamlivecbcs.m3u8
+#EXTINF:-1 tvg-name="Gs Tv" group-title="Diğer",Gs Tv
+https://andro.evrenesoglu57.click/checklist/androstreamlivegs.m3u8
+#EXTINF:-1 tvg-name="Sports Tv" group-title="Spor",Sports Tv
+https://andro.evrenesoglu57.click/checklist/androstreamlivesptstv.m3u8
+#EXTINF:-1 tvg-name="Exxen Tv" group-title="Exxen",Exxen Tv
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn.m3u8
+#EXTINF:-1 tvg-name="Exxen Sports 1" group-title="Exxen",Exxen Sports 1
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn1.m3u8
+#EXTINF:-1 tvg-name="Exxen Sports 2" group-title="Exxen",Exxen Sports 2
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn2.m3u8
+#EXTINF:-1 tvg-name="Exxen Sports 3" group-title="Exxen",Exxen Sports 3
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn3.m3u8
+#EXTINF:-1 tvg-name="Exxen Sports 4" group-title="Exxen",Exxen Sports 4
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn4.m3u8
+#EXTINF:-1 tvg-name="Exxen Sports 5" group-title="Exxen",Exxen Sports 5
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn5.m3u8
+#EXTINF:-1 tvg-name="Exxen Sports 6" group-title="Exxen",Exxen Sports 6
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn6.m3u8
+#EXTINF:-1 tvg-name="Exxen Sports 7" group-title="Exxen",Exxen Sports 7
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn7.m3u8
+#EXTINF:-1 tvg-name="Exxen Sports 8" group-title="Exxen",Exxen Sports 8
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn8.m3u8
