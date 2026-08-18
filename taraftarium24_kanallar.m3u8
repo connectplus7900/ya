@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXT-X-ORIGIN:https://mahsunsports.com
+#EXTINF:-1 tvg-name="Varsayılan Kanal" group-title="Diğer Kanallar",Varsayılan Kanal
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs1.m3u8
