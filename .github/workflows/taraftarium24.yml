@@ -1,50 +1,51 @@
-name: Atom2 M3U Oluşturucu
+name: Taraftarium24 M3U8
 
 permissions:
-  contents: write   # <<--- Push izni çok önemli!
+  contents: write   # <<--- En önemli satır (push izni)
 
 on:
   schedule:
-    - cron: '0 * * * *'   # Her saat başı çalışır
-  workflow_dispatch:       # Manuel çalıştırma
+    - cron: '0 * * * *'  # Her saat başı çalışır
+  workflow_dispatch:
 
 jobs:
-  update-trgoals-m3u:
+  update-files:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Repo Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Python Kur
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      - name: Gerekli Python paketleri
+      - name: Install Playwright
         run: |
           python -m pip install --upgrade pip
-          python -m pip install requests beautifulsoup4
+          python -m pip install playwright
+          python -m playwright install
 
-      - name: Git Ayarları
+      - name: Set up Git
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Atom M3U oluştur (atom2.py)
-        run: python atom2.py
+      - name: Run taraftarium24.py
+        run: python taraftarium24.py
 
-      - name: Değişiklikleri Commit et
+      - name: Commit changes
         run: |
-          git add atom_mac.m3u
-          git commit -m "Auto-update atom_mac.m3u" || echo "No changes to commit"
+          git add .
+          git commit -m "Auto-update m3u8 files" || echo "No changes to commit"
 
-      - name: Uzaktaki değişiklikleri çek
+      - name: Pull remote changes safely
         run: |
           git fetch origin main
           git rebase origin/main || git rebase --abort
 
-      - name: Değişiklikleri Pushla
+      - name: Push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
