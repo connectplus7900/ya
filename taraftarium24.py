@@ -4,7 +4,7 @@ import time
 from urllib.parse import urlparse, parse_qs, urljoin
 from playwright.sync_api import sync_playwright, Error as PlaywrightError, TimeoutError as PlaywrightTimeoutError
 
-TARAFTARIUM_DOMAIN = "https://mahsunsports80.xyz/"
+TARAFTARIUM_DOMAIN = "https://mahsunsports{}.xyz"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
 
 def scrape_default_channel_info(page):
